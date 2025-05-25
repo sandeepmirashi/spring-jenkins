@@ -1,0 +1,1 @@
+INSERT INTO alien (aid, aname, tech) VALUES (101, 'sandeep', 'java');
