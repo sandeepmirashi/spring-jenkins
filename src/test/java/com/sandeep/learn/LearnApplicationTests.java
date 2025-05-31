@@ -14,7 +14,7 @@ import static org.junit.Assert.assertEquals;
 class LearnApplicationTests {
 
 	@Test
-	void contextLoads(){
+	 contextLoads(){
 		log.info("Test case executing..");
 //		log.info("Test case executing..second statement.");
 		assertEquals(true, true);
